@@ -58,3 +58,7 @@ a:hover{
     font-style: italic;
     color: grey;
 }
+
+hr{
+    width: 100%;
+}
