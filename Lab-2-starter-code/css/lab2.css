@@ -1,0 +1,60 @@
+header, footer{ 
+    color:white; 
+    background-color: #312C32; 
+    margin: 0em 4em 0.5em 4em;
+  }
+
+body{
+    background-color: #98dafc;
+    font-family: Georgia, "Cambria", "Times New Roman", serif;
+    font-size: 100%;
+    margin: 0em 4em;
+}
+
+h1, h2, h3, nav, footer{
+    font-family: "Trebuchet MS", "Lucida Grande", Tahoma, sans-serif;
+}
+
+#bod{
+    background-color: white;
+    margin: 0em 4em 0.5em 4em;
+}
+
+h1{
+    font-size: 1.5em;
+}
+
+h2{
+    font-size: 0.75em;
+}
+
+h3{
+    font-size: 1.125em;
+}
+
+nav{
+    font-size: 1.125em;
+}
+
+a:visited{
+    color: #daad86;
+}
+
+a:link{
+    color: #98dafc;
+}
+
+a:hover{
+    color: #FFFFCC;
+}
+
+#largeImg{
+    border: 2px solid black;
+    padding: 0.25em;
+    width: 98%;
+}
+
+.byline{
+    font-style: italic;
+    color: grey;
+}
